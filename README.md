@@ -85,9 +85,6 @@ Contributions to this project are welcome. Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Contact
-
-If you want to contact me, you can reach me at `your-email@example.com`.
 
 ## Acknowledgements
 
